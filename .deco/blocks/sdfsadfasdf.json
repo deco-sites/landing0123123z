@@ -1,0 +1,18 @@
+{
+  "__resolveType": "site/sections/BlogPosts.tsx",
+  "posts": [
+    {
+      "tags": [
+        "asdfasfsdafsdf"
+      ],
+      "title": "asdf",
+      "author": "fdfasdf",
+      "excerpt": "asdfasdfasdfasdfasdf",
+      "image": "https://data.decoassets.com/landing0123123z/54ffae3f-bd12-4328-a8a6-37754b18e5fe/a-monkey-on-a-bike",
+      "date": "123123123",
+      "readingTime": "12123123"
+    }
+  ],
+  "title": "asdfasdfasdfasdfasdf",
+  "description": "asdfasdfasdf"
+}
